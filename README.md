@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Express.js applications where the JSON body parsing middleware fails to handle empty or invalid JSON request bodies. The `bug.js` file contains the buggy code that causes this error and the `bugSolution.js` file provides a solution for handling this issue.
